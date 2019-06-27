@@ -13,6 +13,7 @@ Compilers (*Compiladores*) at the Federal University of ABC (UFABC).
 - **04/06/2019** *(Theory)*: Algorithms and Data Structures Review.
 - **11/06/2019** *(Theory)*: Introduction to Compilers.
 - **18/06/2019** *(Theory)*: Formal Grammar review.
+- **25/06/2019** *(Theory)*: Lexical Analysis.
 
 ## Bibliography
 
