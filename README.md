@@ -14,6 +14,9 @@ Compilers (*Compiladores*) at the Federal University of ABC (UFABC).
 - **11/06/2019** *(Theory)*: Introduction to Compilers.
 - **18/06/2019** *(Theory)*: Formal Grammar review.
 - **25/06/2019** *(Theory)*: Lexical Analysis.
+- **28/06/2019** *(Laboratory)*: [Lexical Analysis Implementation].
+
+[Lexical Analysis Implementation]: laboratory/2019.06.28/
 
 ## Bibliography
 
