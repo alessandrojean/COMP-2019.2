@@ -1,15 +1,34 @@
 package microjava;
 
+/**
+ * A program token.
+ */
 public class Token {
-	// Token kind.
+	/**
+	 * Token kind.
+	 */
 	final TokenType kind;
-	// Token line.
+	/**
+   * Token line.
+   */
 	final int line;		
-	// Token column.
+	/**
+   * Token column.
+   */
 	final int column;		
-	// Token value.	
+	/**
+   * Token value.	
+   */
 	final Object value;
 
+	/**
+	 * Creates a token.
+	 * 
+	 * @param kind the type of the token
+	 * @param line the line of the token
+	 * @param column the column of the token
+	 * @param value the value of the token if is literal
+	 */
 	public Token(TokenType kind, int line, int column, Object value) {
 		this.kind = kind;
 		this.line = line;
