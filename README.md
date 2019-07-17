@@ -16,6 +16,7 @@ Compilers (*Compiladores*) at the Federal University of ABC (UFABC).
 - **25/06/2019** *(Theory)*: Lexical Analysis.
 - **28/06/2019** *(Laboratory)*: [Lexical Analysis Implementation].
 - **02/07/2019** *(Theory)*: Lexical Analysis *(continuation)*.
+- **05/07/2019** *(Theory)*: Syntax Analysis.
 
 [Lexical Analysis Implementation]: laboratory/2019.06.28/
 
