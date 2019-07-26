@@ -21,12 +21,12 @@ public class TestParser {
 	 * Main method of the parser tester.
 	 */
 	public static void main(String args[]) {
-		// if (args.length == 0) {
-		// 	System.out.println("Synopsis: java microjava.TestParser <inputfileName>");
-		// 	return;
-		// }
+		if (args.length == 0) {
+			System.out.println("Synopsis: java microjava.TestParser <inputfileName>");
+			return;
+		}
 
-		String source = "BuggyParserInput.mj";//args[0];
+		String source = args[0];
 
 		try {
 			Scanner scanner = new Scanner(new InputStreamReader(new FileInputStream(source)));
